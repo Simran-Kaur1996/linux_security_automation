@@ -15,8 +15,6 @@ This project simulates a multi-user Linux environment often found in corporate I
 - Monitoring security logs for suspicious activity
 - Enhancing system security with `umask`, `sudo`, and directory protections
 
-> 🔧 Built entirely in Bash, the toolkit reflects industry best practices for Linux system administration.
-
 ---
 
 ## ✨ Features
