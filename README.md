@@ -32,5 +32,3 @@ This project simulates a multi-user Linux environment often found in corporate I
 
 ---
 
-## 📂 Project Structure
-
